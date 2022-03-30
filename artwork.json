@@ -47,13 +47,13 @@
         {
           "caption": "Copyright @Async",
           "ext": ".png",
-          "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/Capture_d_ecran_2022_03_23_a_16_48_03_4a0125b0af.png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-bonjour.png",
           "asset": {
-            "caption": "Y2Mate.is - Reality Composer demo-RYcGOOsyhnU-360p-1648562952618.mp4",
-            "ext": ".mp4",
-            "url": "http://back-acyp-ar.s3.fr-par.scw.cloud/Y2_Mate_is_Reality_Composer_demo_R_Yc_GO_Osyhn_U_360p_1648562952618_fb9e02744b.mp4",
+            "caption": "plane_modiers_applied.glb",
+            "ext": ".glb",
+            "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
             "updatedAt": "2022-03-29T14:13:03.046Z"
-          },
+          }
           "updatedAt": "2022-03-29T14:13:03.046Z"
         }
       ]
