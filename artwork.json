@@ -1,0 +1,64 @@
+{
+  "artwork": {
+    "number": "1",
+    "locale": "en",
+    "name": "Simple Plane",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. ",
+    "bio": "Bio : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. Quisque id est convallis lacus sodales pretium ac sed nisl.",
+    "author": "Authors : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. Quisque id est convallis lacus sodales pretium ac sed nisl.",
+    "instruction": {
+      "description": "Instruction de comment trouver l'AR",
+      "image": {
+        "caption": "Copyright @Async",
+        "ext": ".png",
+        "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/Capture_d_ecran_2022_03_23_a_16_48_03_4a0125b0af.png"
+      }
+    },
+    "audio": {
+      "caption": "Moon-Wisper.mp3",
+      "ext": ".mp3",
+      "url": "http://back-acyp-ar.s3.fr-par.scw.cloud/Moon_Wisper_2019c603dc.mp3",
+      "updatedAt": "2022-03-23T16:48:56.301Z"
+    },
+    "images": [
+      {
+        "caption": "Copyright @Async",
+        "ext": ".png",
+        "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/Capture_d_ecran_2022_03_23_a_16_48_03_4a0125b0af.png",
+        "updatedAt": "2022-03-23T16:48:56.301Z"
+      }
+    ],
+    "anchors": {
+      "gps": [
+        {
+          "altitude": 0,
+          "altitudeMode": "GroundRelative",
+          "latitude": "62,456465",
+          "longitude": "145,654654654",
+          "asset": {
+            "caption": "plane_modiers_applied.glb",
+            "ext": ".glb",
+            "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        }
+      ],
+      "images": [
+        {
+          "caption": "Copyright @Async",
+          "ext": ".png",
+          "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/Capture_d_ecran_2022_03_23_a_16_48_03_4a0125b0af.png",
+          "asset": {
+            "caption": "Y2Mate.is - Reality Composer demo-RYcGOOsyhnU-360p-1648562952618.mp4",
+            "ext": ".mp4",
+            "url": "http://back-acyp-ar.s3.fr-par.scw.cloud/Y2_Mate_is_Reality_Composer_demo_R_Yc_GO_Osyhn_U_360p_1648562952618_fb9e02744b.mp4",
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          },
+          "updatedAt": "2022-03-29T14:13:03.046Z"
+        }
+      ]
+    },
+    "createdAt": "2022-03-23T16:53:43.616Z",
+    "updatedAt": "2022-03-29T14:13:03.046Z"
+  }
+}
