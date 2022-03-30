@@ -58,6 +58,20 @@
             "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
+        },
+        {
+          "caption": "Copyright @Async",
+          "ext": ".png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-coucou.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "AntiqueCamera",
+            "ext": ".glb",
+            "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
         }
       ]
     },
