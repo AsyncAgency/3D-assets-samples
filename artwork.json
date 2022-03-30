@@ -35,6 +35,7 @@
           "altitudeMode": "GroundRelative",
           "latitude": "62,456465",
           "longitude": "145,654654654",
+          "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
             "caption": "plane_modiers_applied.glb",
             "ext": ".glb",
@@ -48,13 +49,15 @@
           "caption": "Copyright @Async",
           "ext": ".png",
           "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-bonjour.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
             "caption": "plane_modiers_applied.glb",
             "ext": ".glb",
             "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
-          "updatedAt": "2022-03-29T14:13:03.046Z"
         }
       ]
     },
