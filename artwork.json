@@ -46,7 +46,7 @@
       ],
       "images": [
         {
-          "caption": "Copyright @Async",
+          "caption": "bonjour",
           "ext": ".png",
           "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-bonjour.png",
           "height": 0.10,
@@ -60,7 +60,7 @@
           }
         },
         {
-          "caption": "Copyright @Async",
+          "caption": "coucou",
           "ext": ".png",
           "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-coucou.png",
           "height": 0.10,
