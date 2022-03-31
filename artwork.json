@@ -56,6 +56,7 @@
             "caption": "plane_modiers_applied.glb",
             "ext": ".glb",
             "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
+            "sizeFactor": 0.1,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         },
@@ -70,6 +71,7 @@
             "caption": "AntiqueCamera",
             "ext": ".glb",
             "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+            "sizeFactor": 0.1,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         },
