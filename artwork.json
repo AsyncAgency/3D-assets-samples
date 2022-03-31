@@ -83,7 +83,7 @@
           "asset": {
             "caption": "Video",
             "ext": ".mp4",
-            "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/video_sample.mp4",
+            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/video_sample.mp4",
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         }
