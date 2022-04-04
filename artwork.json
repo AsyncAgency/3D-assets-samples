@@ -7,9 +7,9 @@
     "bio": "Bio : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. Quisque id est convallis lacus sodales pretium ac sed nisl.",
     "author": "Authors : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. Quisque id est convallis lacus sodales pretium ac sed nisl.",
     "instruction": {
-      "description": "Instruction de comment trouver l'AR",
+      "description": "Cherchez autour de vous un QRCode",
       "image": {
-        "caption": "Copyright @Async",
+        "caption": "InstructionQr",
         "ext": ".png",
         "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/Capture_d_ecran_2022_03_23_a_16_48_03_4a0125b0af.png"
       }
