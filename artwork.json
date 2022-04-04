@@ -33,8 +33,8 @@
         {
           "altitude": 0,
           "altitudeMode": "GroundRelative",
-          "latitude": "62,456465",
-          "longitude": "145,654654654",
+          "latitude": 45.9075854382, 
+          "longitude": 6.1017219334,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
             "caption": "plane_modiers_applied.glb",
