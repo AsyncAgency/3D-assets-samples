@@ -33,17 +33,31 @@
         {
           "altitude": 0,
           "altitudeMode": "GroundRelative",
-          "latitude": 45.9075854382, 
-          "longitude": 6.1017219334,
+          "latitude": 45.90735541278531,
+          "longitude": 6.10186274941362,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
-            "caption": "plane_modiers_applied.glb",
+            "caption": "planeGPS",
             "ext": ".glb",
             "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
-            "scaleFactor": 1.0,
+            "scaleFactor": 0.5,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
-        }
+        },
+        {
+          "altitude": 0,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.90757190736829, 
+          "longitude": 6.101729980070298,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "AntiqueCameraGPS",
+            "ext": ".glb",
+            "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+            "scaleFactor": 0.5,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
       ],
       "images": [
         {
