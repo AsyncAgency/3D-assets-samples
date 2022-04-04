@@ -33,14 +33,14 @@
         {
           "altitude": 0,
           "altitudeMode": "GroundRelative",
-          "latitude": 45.907355,
-          "longitude": 6.101862,
+          "latitude": 45.9075854382, 
+          "longitude": 6.1017219334,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
-            "caption": "planeGPS",
+            "caption": "plane_modiers_applied.glb",
             "ext": ".glb",
             "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
-            "scaleFactor": 0.5,
+            "scaleFactor": 1.0,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         }
