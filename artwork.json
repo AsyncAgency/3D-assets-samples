@@ -59,6 +59,22 @@
             "scaleFactor": 0.5,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
+        },
+        {
+          "caption": "bonjourVideoGPS",
+          "altitude": 1,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.90741445713608,
+          "longitude": 6.1020629800908575,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "VideoGps",
+            "ext": ".mp4",
+            "height": 1,
+            "width" : 1.77,
+            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/video_sample.mp4",
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
         }
       ],
       "images": [
