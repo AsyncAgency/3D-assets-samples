@@ -120,10 +120,10 @@
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
             "caption": "Video",
-            "ext": ".mp4",
+            "ext": ".webm",
             "height": 0.10,
             "width" : 0.177,
-            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/video_sample.mp4",
+            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/findaplane.webm",
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         }
