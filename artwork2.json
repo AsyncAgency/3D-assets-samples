@@ -26,6 +26,36 @@
       "gps": [],
       "images": [
         {
+          "caption": "bonjour",
+          "ext": ".png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-bonjour.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "plane_modiers_applied.glb",
+            "ext": ".glb",
+            "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
+            "scaleFactor": 0.02,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
+        {
+          "caption": "coucou",
+          "ext": ".png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-coucou.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "AntiqueCamera",
+            "ext": ".glb",
+            "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+            "scaleFactor": 0.02,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
+        {
           "caption": "salut",
           "ext": ".png",
           "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-salut.png",
@@ -33,7 +63,7 @@
           "width" : 0.10,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
-            "caption": "VideoT",
+            "caption": "Video",
             "ext": ".webm",
             "height": 0.10,
             "width" : 0.177,
