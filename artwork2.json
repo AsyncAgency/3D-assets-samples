@@ -23,55 +23,58 @@
       }
     ],
     "anchors": {
-      "gps": [],
-      "images": [
+       "gps": [
         {
-          "caption": "bonjour",
-          "ext": ".png",
-          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-bonjour.png",
-          "height": 0.10,
-          "width" : 0.10,
+          "caption": "bonjourPlaneGPS",
+          "altitude": 0,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.9073647444657, 
+          "longitude": 6.1018593966524,
+          "showDistance": true,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
-            "caption": "plane_modiers_applied.glb",
+            "caption": "plane_GPS",
             "ext": ".glb",
             "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
-            "scaleFactor": 0.02,
+            "scaleFactor": 1.0,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         },
         {
-          "caption": "coucou",
-          "ext": ".png",
-          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-coucou.png",
-          "height": 0.10,
-          "width" : 0.10,
+          "caption": "bonjourCameraGPS",
+          "altitude": 0,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.9075779764085,
+          "longitude": 6.10172027965653,
+          "showDistance": true,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
-            "caption": "AntiqueCamera",
+            "caption": "AntiqueCameraGPS",
             "ext": ".glb",
             "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
-            "scaleFactor": 0.02,
+            "scaleFactor": 0.5,
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         },
         {
-          "caption": "salut",
-          "ext": ".png",
-          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-salut.png",
-          "height": 0.10,
-          "width" : 0.10,
+          "caption": "bonjourVideoGPS",
+          "altitude": 1,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.90741445713608,
+          "longitude": 6.1020629800908575,
+          "showDistance": true,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
-            "caption": "Video",
-            "ext": ".webm",
-            "height": 0.10,
-            "width" : 0.177,
-            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/dancer.webm",
+            "caption": "VideoGps",
+            "ext": ".mp4",
+            "height": 1,
+            "width" : 1.77,
+            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/video_sample.mp4",
             "updatedAt": "2022-03-29T14:13:03.046Z"
           }
         }
-      ]
+      ],
+      "images": []
     },
     "createdAt": "2022-03-23T16:53:43.616Z",
     "updatedAt": "2022-03-29T14:13:03.046Z"
