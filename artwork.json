@@ -50,8 +50,8 @@
           "caption": "bonjourCameraGPS",
           "altitude": 0,
           "altitudeMode": "GroundRelative",
-          "latitude": 45.9075779764085,
-          "longitude": 6.10172027965653,
+          "latitude": 45.910384429651806, 
+          "longitude": 6.143506811432203,
           "showDistance": true,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
